@@ -17,7 +17,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flutter | Javascript | Django | Flask   
+- 💻 &nbsp; Python | Flutter | Javascript | Django | Flask | Heroku  
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Tkinter | Matplotlib | open-cv | Tensorflow | Pytorch
 - ☁ &nbsp; Google Cloud Platform | Azure | Docker
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Spyder | Anaconda | Git | Colab | Jupyter
