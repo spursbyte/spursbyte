@@ -12,12 +12,12 @@
 - 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Artificial Intelligence.
 - ✍️ &nbsp; Love writing Blogs,learning Product dev and flutter for applications. 
 - ✨ &nbsp; Out of work, find me reading newspapers,books or hanging out with friends.
-- ☕ &nbsp; I believe, a thinking about new ideas is a get away from all your sorrows.
+- ☕ &nbsp; I believe, thinking about new ideas is a get away from all your sorrows.
 - ✨ &nbsp; Winners of cisco webex global virtual hackathon. check out our ptoject here: (https://github.com/malayaj2000/cisco_hack)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flutter | Javascript | Django | Flask | Heroku  
+- 💻 &nbsp; Python | Flutter | Javascript | Django | Flask | Heroku  | R
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Tkinter | Matplotlib | open-cv | Tensorflow | Pytorch
 - ☁ &nbsp; Google Cloud Platform | Azure | Docker
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Spyder | Anaconda | Git | Colab | Jupyter
