@@ -13,7 +13,7 @@
 - ✍️ &nbsp; Love writing Blogs,learning Product dev and flutter for applications. 
 - ✨ &nbsp; Out of work, find me reading newspapers,books or hanging out with friends.
 - ☕ &nbsp; I believe, thinking about new ideas is a get away from all your sorrows.
-- ✨ &nbsp; Winners of cisco webex global virtual hackathon. check out our ptoject here: (https://github.com/malayaj2000/cisco_hack)
+- ✨ &nbsp; Winners of cisco webex global virtual hackathon.
 
 <h3>🛠 Tech Stack</h3>
 
